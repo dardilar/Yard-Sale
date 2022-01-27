@@ -38,11 +38,11 @@ body {
 }
 
 .mobile-menu ul:nth-child(2) {
-    margin-top: 10rem;
+    margin-top: 3rem;
 }
 
 .mobile-menu ul li {
-    margin-bottom: 3rem;
+    margin-bottom: 2.4rem;
 }
 
 .mobile-menu ul a {
@@ -64,10 +64,9 @@ body {
 
 .bottom-container {
     position: relative;
-    top: 5rem;
+    top: 3rem;
 }
 
 .bottom-container .email-container {
     margin-bottom: 0;
 }
-
